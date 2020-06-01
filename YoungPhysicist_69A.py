@@ -1,4 +1,5 @@
 #Young Physicist
+#Problem Link : http://codeforces.com/contest/69/problem/A
 n = input()
 I , J , K = 0 , 0 , 0
 for _ in range(int(n)):
